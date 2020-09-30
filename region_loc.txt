@@ -5,8 +5,8 @@
   'latitude': 35.21648916999964,
   'longitude': -5.46061811161441},
  {'name': 'Guelmim Oued Noun',
-  'latitude': 28.822195876088156,
-  'longitude': -10.043118721763566},
+  'latitude': 28.537079417694862,
+  'longitude': -10.21129615427537},
  {'name': 'Dakhla-Oued Ed Daha',
   'latitude': 23.187768662138904,
   'longitude': -14.576887039381933},
@@ -32,5 +32,5 @@
   'latitude': 34.03819378608868,
   'longitude': -6.373051694854541},
  {'name': 'Souss-Massa',
-  'latitude': 29.720138508996374,
-  'longitude': -8.88787065639313}]
+  'latitude': 29.911104363087805,
+  'longitude': -8.683976891847944}]
